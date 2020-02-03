@@ -2,12 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/gmall-bean" vcs="svn" />
-    <mapping directory="$PROJECT_DIR$/gmall-common-util" vcs="svn" />
-    <mapping directory="$PROJECT_DIR$/gmall-interface" vcs="svn" />
-    <mapping directory="$PROJECT_DIR$/gmall-parent" vcs="svn" />
-    <mapping directory="$PROJECT_DIR$/gmall-service-util" vcs="svn" />
-    <mapping directory="$PROJECT_DIR$/gmall-usermanage" vcs="svn" />
-    <mapping directory="$PROJECT_DIR$/gmall-web-util" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/gmall-bean" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gmall-common-util" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gmall-interface" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gmall-parent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gmall-service-util" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gmall-usermanage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gmall-web-util" vcs="Git" />
   </component>
 </project>
